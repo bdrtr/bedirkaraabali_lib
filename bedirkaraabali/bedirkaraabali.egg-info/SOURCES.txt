@@ -1,7 +1,0 @@
-setup.py
-bedirkaraabali/__init__.py
-bedirkaraabali/isim.py
-bedirkaraabali.egg-info/PKG-INFO
-bedirkaraabali.egg-info/SOURCES.txt
-bedirkaraabali.egg-info/dependency_links.txt
-bedirkaraabali.egg-info/top_level.txt
